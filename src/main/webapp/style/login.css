@@ -1,0 +1,22 @@
+.spacer{
+width:30%;
+}
+.formElements{
+	margin-left:5%;
+	display:flex;
+    flex-direction:row;
+    margin-top:20px;
+	
+}
+#parentDiv{
+
+	border-style:solid;
+	border-radius: 25px;
+	margin:15%;
+
+
+}
+#form{
+	padding:10%;
+	padding-left:25%;
+}

@@ -1,0 +1,10 @@
+.spacer{
+width:15%;
+}
+.formElements{
+	margin-left:5%;
+	display:flex;
+    flex-direction:row;
+    margin-top:20px;
+	
+}
